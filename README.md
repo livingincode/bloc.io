@@ -1,2 +1,2 @@
-# bloc.io-iOS
+# bloc.io
 Bloc.io iOS assignments.
